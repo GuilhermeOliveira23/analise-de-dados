@@ -187,7 +187,7 @@ py -3 python/analise_dados.py
 **Guilherme Oliveira**
 
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeOliveira23-181717?style=for-the-badge&logo=github)](https://github.com/GuilhermeOliveira23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/guilherme-gozzi-56a610233/?skipRedirect=true))
 
 ---
 
